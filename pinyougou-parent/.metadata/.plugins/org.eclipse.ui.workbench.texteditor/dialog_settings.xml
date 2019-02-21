@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="org.eclipse.ui.texteditor.FindReplaceDialog">
+		<item value="false" key="isRegEx"/>
+		<item value="proedu-rest" key="selection"/>
+		<item value="false" key="casesensitive"/>
+		<item value="false" key="incremental"/>
+		<item value="false" key="wrap"/>
+		<item value="false" key="wholeword"/>
+		<list key="findhistory">
+			<item value="taotao-rest"/>
+			<item value="taotao-manager"/>
+			<item value="datagrid"/>
+			<item value="TODO 自动生成的方法存根"/>
+			<item value=""/>
+		</list>
+		<list key="replacehistory">
+			<item value="proedu-rest"/>
+			<item value="p"/>
+			<item value=""/>
+			<item value="taotao-rest"/>
+			<item value="taotao-portal"/>
+			<item value="taotao-portar"/>
+		</list>
+	</section>
+	<section name="org.eclipse.ui.texteditor.FindReplaceDialog_dialogBounds">
+		<item value="414" key="DIALOG_WIDTH"/>
+		<item value="1|微软雅黑|12.0|0|WINDOWS|1|-20|0|0|0|400|0|0|0|-122|3|2|1|34|微软雅黑" key="DIALOG_FONT_NAME"/>
+		<item value="484" key="DIALOG_HEIGHT"/>
+		<item value="1064" key="DIALOG_X_ORIGIN"/>
+		<item value="217" key="DIALOG_Y_ORIGIN"/>
+	</section>
+</section>

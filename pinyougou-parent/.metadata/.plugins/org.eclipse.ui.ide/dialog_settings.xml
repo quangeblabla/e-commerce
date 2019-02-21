@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<list key="org.eclipse.ui.internal.wizards.datatransfer.SmartImportRootWizardPage.knownSources">
+		<item value="E:\eclipseWorkspace\taotao-rest"/>
+		<item value="E:\eclipseWorkspace\taotao-portal"/>
+		<item value="E:\eclipseWorkspace\taotao-manager"/>
+		<item value="E:\eclipseWorkspace\taotao-common"/>
+		<item value="E:\eclipseWorkspace\taotao-parent"/>
+		<item value="E:\eclipseWorkspace\customer"/>
+		<item value="E:\eclipseWorkspace\generatorHibernate"/>
+		<item value="E:\eclipseWorkspace\bookstore"/>
+		<item value="D:\eclipseWorkspace\ScientificResearch_management_system"/>
+		<item value="C:\Users\Administrator\Desktop\ScientificResearch_management_system"/>
+		<item value="D:\eclipseWorkspace\customer"/>
+		<item value="D:\eclipseWorkspace\itcast0907crmCache"/>
+		<item value="D:\eclipseWorkspace\generatorHibernate"/>
+		<item value="C:\Users\Administrator\Desktop\Teacher-Student\Teacher-Student"/>
+		<item value="D:\eclipseWorkspace\crm"/>
+		<item value="D:\eclipseWorkspace\Servers"/>
+		<item value="D:\eclipseWorkspace\bookstore"/>
+		<item value="D:\eclipseWorkspace\Day18"/>
+		<item value="D:\BaiduNetdiskDownload\项目实战\第01项目：SSH 网上商城项目(推荐学习项目）\代码\shop"/>
+		<item value="D:\eclipseWorkspace\Traffic"/>
+	</list>
+	<section name="CleanDialogSettings">
+		<item value="824" key="DIALOG_WIDTH"/>
+		<item value="true" key="TOGGLE_SELECTED"/>
+		<item value="505" key="DIALOG_HEIGHT"/>
+		<item value="854" key="DIALOG_X_ORIGIN"/>
+		<item value="265" key="DIALOG_Y_ORIGIN"/>
+	</section>
+	<section name="ExternalProjectImportWizard">
+		<item value="false" key="WizardProjectsImportPage.STORE_NESTED_PROJECTS"/>
+		<item value="true" key="WizardProjectsImportPage.STORE_COPY_PROJECT_ID"/>
+		<item value="false" key="WizardProjectsImportPage.STORE_ARCHIVE_SELECTED"/>
+		<list key="WizardProjectsImportPage.STORE_DIRECTORIES">
+			<item value="D:\BaiduNetdiskDownload\项目实战\02.JAVA最新面试题库\Java面试指导\03第三讲：Java服务器端方面陷阱\03第三讲：Java服务器端方面陷阱\JavaWebPitfall"/>
+			<item value="D:\BaiduNetdiskDownload\项目实战\02.JAVA最新面试题库\Java面试指导\02第二讲：Java客户端方面陷阱\02第二讲：Java客户端方面陷阱\JavaClientPitfalls"/>
+			<item value="D:\BaiduNetdiskDownload\项目实战\02.JAVA最新面试题库\Java面试指导\01第一讲：Java基础方面陷阱\01第一讲：Java基础方面陷阱\JavaPitfalls"/>
+			<item value="D:\BaiduNetdiskDownload\高级\08.结业项目-淘淘商城(SpringMvc+Spring+Mybatis)\02.第二天（框架整合，后台系统搭建）\01.参考资料\01.参考资料\逆向工程\generatorSqlmapCustom"/>
+			<item value="C:\Users\Administrator\Desktop\论文相关\软工1501班   靳程煜    1508010126  课程设计\Traffic"/>
+			<item value="C:\Users\Administrator\Desktop\软工1501班   靳程煜    1508010126  课程设计\Traffic"/>
+		</list>
+		<list key="WizardProjectsImportPage.STORE_ARCHIVES">
+			<item value=""/>
+		</list>
+	</section>
+	<section name="WORKBENCH_SETTINGS">
+		<list key="ENABLED_TRANSFERS">
+		</list>
+	</section>
+	<section name="NewWizardAction">
+		<item value="org.eclipse.m2e.core.wizards.Maven2ProjectWizard" key="NewWizardSelectionPage.STORE_SELECTED_ID"/>
+		<list key="NewWizardSelectionPage.STORE_EXPANDED_CATEGORIES_ID">
+			<item value="org.eclipse.m2e"/>
+		</list>
+	</section>
+	<section name="ChooseWorkspaceDialogSettings">
+		<item value="439" key="DIALOG_X_ORIGIN"/>
+		<item value="263" key="DIALOG_Y_ORIGIN"/>
+	</section>
+	<section name="BasicNewProjectResourceWizard">
+	</section>
+	<section name="org.eclipse.ui.dialogs.FilteredResourcesSelectionDialog">
+		<item value="false" key="FilterByLocation"/>
+		<item value="true" key="ShowStatusLine"/>
+		<item value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;&#x0D;&#x0A;&lt;History&gt;&#x0D;&#x0A;&lt;historyRootNode/&gt;&#x0D;&#x0A;&lt;/History&gt;" key="History"/>
+		<item value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;&#x0D;&#x0A;&lt;workingSet workingSetName=&quot;&quot;/&gt;" key="WorkingSet"/>
+		<item value="false" key="ShowDerived"/>
+		<section name="DialogBoundsSettings">
+			<item value="600" key="DIALOG_WIDTH"/>
+			<item value="1|微软雅黑|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|1|0|0|0|0|微软雅黑" key="DIALOG_FONT_NAME"/>
+			<item value="500" key="DIALOG_HEIGHT"/>
+			<item value="668" key="DIALOG_X_ORIGIN"/>
+			<item value="200" key="DIALOG_Y_ORIGIN"/>
+		</section>
+	</section>
+</section>

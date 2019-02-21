@@ -1,0 +1,15 @@
+import org.apache.commons.net.ftp.FTPClient;
+import org.junit.Test;
+
+public class FTPClientTest {
+	
+	@Test
+	public void ftptest() throws Exception{
+		//创建ftpclient对象
+		FTPClient ftpClient = new FTPClient();
+		//连接ftp服务
+		ftpClient
+		
+	}
+	
+}

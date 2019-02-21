@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;Identi.java&apos; to &apos;JspExample/src/cn.itcast.JspExample.utils&apos;&#x0D;&#x0A;－ 原始项目：“servlet”&#x0D;&#x0A;－ 目标元素：“JspExample/src/cn.itcast.JspExample.utils”&#x0D;&#x0A;－ 原始元素：“cn.itcast.servlet.Identi.java”" description="复制编译单元" destination="=JspExample/src&lt;cn.itcast.JspExample.utils" element1="/src&lt;cn.itcast.servlet{Identi.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1512105884508" units="1" version="1.0"/>
+</session>

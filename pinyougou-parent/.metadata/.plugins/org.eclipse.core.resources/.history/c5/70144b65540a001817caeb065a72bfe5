@@ -1,0 +1,9 @@
+import org.apache.commons.net.ftp.FTPClient;
+
+public class FTPClientTest {
+	//创建ftpclient对象
+	FTPClient ftpClient = new FTPClient();
+	//连接ftp服务
+	ftpClient
+	
+}

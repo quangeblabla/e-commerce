@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="FAVORITES_DIALOG_SECTION">
+		<item value="350" key="DIALOG_WIDTH"/>
+		<item value="1|微软雅黑|12.0|0|WINDOWS|1|-16|0|0|0|400|0|0|0|-122|3|2|1|34|微软雅黑" key="DIALOG_FONT_NAME"/>
+		<item value="400" key="DIALOG_HEIGHT"/>
+		<item value="517" key="DIALOG_X_ORIGIN"/>
+		<item value="209" key="DIALOG_Y_ORIGIN"/>
+	</section>
+	<section name="org.eclipse.debug.ui.STRING_VARIABLE_SELECTION_DIALOG_SECTION">
+		<item value="654" key="DIALOG_WIDTH"/>
+		<item value="1|微软雅黑|12.0|0|WINDOWS|1|-20|0|0|0|400|0|0|0|-122|3|2|1|34|微软雅黑" key="DIALOG_FONT_NAME"/>
+		<item value="970" key="DIALOG_HEIGHT"/>
+		<item value="110" key="DIALOG_X_ORIGIN"/>
+		<item value="0" key="DIALOG_Y_ORIGIN"/>
+	</section>
+	<section name="org.eclipse.debug.ui.LAUNCH_CONFIGURATION_PROPERTIES_DIALOG_SECTION">
+		<item value="700" key="DIALOG_WIDTH"/>
+		<item value="1|微软雅黑|12.0|0|WINDOWS|1|-16|0|0|0|400|0|0|0|-122|3|2|1|34|微软雅黑" key="DIALOG_FONT_NAME"/>
+		<item value="1040" key="DIALOG_HEIGHT"/>
+	</section>
+	<section name="org.eclipse.debug.ui.sourcelookup.SourceLookupDialog">
+		<item value="700" key="DIALOG_WIDTH"/>
+		<item value="1|微软雅黑|12.0|0|WINDOWS|1|-16|0|0|0|400|0|0|0|-122|3|2|1|34|微软雅黑" key="DIALOG_FONT_NAME"/>
+		<item value="502" key="DIALOG_HEIGHT"/>
+		<item value="618" key="DIALOG_X_ORIGIN"/>
+		<item value="194" key="DIALOG_Y_ORIGIN"/>
+	</section>
+	<section name="org.eclipse.debug.ui.SCOPED_SAVE_SELECTION_DIALOG">
+		<item value="309" key="DIALOG_WIDTH"/>
+		<item value="1|微软雅黑|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|1|0|0|0|0|微软雅黑" key="DIALOG_FONT_NAME"/>
+		<item value="394" key="DIALOG_HEIGHT"/>
+	</section>
+	<section name="org.eclipse.debug.ui.LAUNCH_CONFIGURATIONS_DIALOG_SECTION">
+		<item value="1338" key="DIALOG_WIDTH"/>
+		<item value="1|微软雅黑|12.0|0|WINDOWS|1|-20|0|0|0|400|0|0|0|-122|3|2|1|34|微软雅黑" key="DIALOG_FONT_NAME"/>
+		<item value="org.eclipse.jst.server.tomcat.core.launchConfigurationType, org.eclipse.m2e.Maven2LaunchConfigurationType, org.hibernate.eclipse.launch.CodeGenerationLaunchConfigurationType, org.eclipse.jdt.junit.launchconfig, org.eclipse.jdt.launching.localJavaApplication, " key="org.eclipse.debug.ui.EXPANDED_NODES"/>
+		<item value="631" key="org.eclipse.debug.ui.DIALOG_SASH_WEIGHTS_2"/>
+		<item value="1032" key="DIALOG_HEIGHT"/>
+		<item value="368" key="org.eclipse.debug.ui.DIALOG_SASH_WEIGHTS_1"/>
+	</section>
+	<section name="org.eclipse.debug.ui.SINGLE_LAUNCH_CONFIGURATION_DIALOG_SECTION">
+		<item value="875" key="DIALOG_WIDTH"/>
+		<item value="1|微软雅黑|12.0|0|WINDOWS|1|-20|0|0|0|400|0|0|0|-122|3|2|1|34|微软雅黑" key="DIALOG_FONT_NAME"/>
+		<item value="1032" key="DIALOG_HEIGHT"/>
+	</section>
+	<section name="org.eclipse.jdt.debug.ui.PROJECT_SELECTION_DIALOG_SECTION">
+		<item value="485" key="DIALOG_WIDTH"/>
+		<item value="1|微软雅黑|12.0|0|WINDOWS|1|-20|0|0|0|400|0|0|0|-122|3|2|1|34|微软雅黑" key="DIALOG_FONT_NAME"/>
+		<item value="537" key="DIALOG_HEIGHT"/>
+	</section>
+</section>

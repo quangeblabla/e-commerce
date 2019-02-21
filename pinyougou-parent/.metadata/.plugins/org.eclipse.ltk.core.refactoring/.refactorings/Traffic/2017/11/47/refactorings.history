@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring accessors="true" comment="Delete element from 项目“Traffic”&#x0D;&#x0A;－ 原始项目：“Traffic”&#x0D;&#x0A;－ 原始元素：“sqljdbc4.jar”" description="删除元素" element1="lip/sqljdbc4.jar" elements="0" flags="589830" id="org.eclipse.jdt.ui.delete" resources="1" stamp="1511270447238" subPackages="false" version="1.0"/>
+</session>

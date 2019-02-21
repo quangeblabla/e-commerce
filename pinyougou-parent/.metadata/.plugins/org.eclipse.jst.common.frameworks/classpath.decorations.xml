@@ -1,0 +1,7 @@
+<classpath>
+  <container id="crm_hibernate!org.eclipse.jst.j2ee.internal.web.container">
+    <entry id="D:/eclipseWorkspace/crm_hibernate/WebRoot/WEB-INF/lib/hibernate-core-5.0.7.Final.jar">
+      <source-attachment-path>D:/BaiduNetdiskDownload/高级/01.hibernate(共78小集)/01.hibernate入门知识/源码笔记/源码笔记/全部资料/下载/hibernate-release-5.0.7.Final/hibernate-release-5.0.7.Final/project</source-attachment-path>
+    </entry>
+  </container>
+</classpath>

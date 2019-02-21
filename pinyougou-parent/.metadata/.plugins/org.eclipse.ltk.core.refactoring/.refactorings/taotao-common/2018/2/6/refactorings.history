@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;EUIDataGrid.java&apos; to &apos;taotao-manager-mapper/src/test/java&apos;&#x0D;&#x0A;- Original project: &apos;taotao-common&apos;&#x0D;&#x0A;- Destination element: &apos;taotao-manager-mapper/src/test/java&apos;&#x0D;&#x0A;- Original element: &apos;EUIDataGrid.java&apos;" description="Copy file" destination="=taotao-manager-mapper/src\/test\/java" element1="src/main/java/com/taotao/common/pojo/EUIDataGrid.java" files="1" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1517897482374" units="0" version="1.0"/>
+</session>

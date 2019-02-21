@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy 2 packages to &apos;taotao-manager-mapper/src/main/java&apos;&#x0D;&#x0A;- Original project: &apos;generatorSqlmapCustom&apos;&#x0D;&#x0A;- Destination element: &apos;taotao-manager-mapper/src/main/java&apos;&#x0D;&#x0A;- Original elements:&#x0D;&#x0A;     generatorSqlmapCustom/src/com.taotao.mapper&#x0D;&#x0A;     generatorSqlmapCustom/src/com.taotao.pojo" description="Copy packages" destination="=taotao-manager-mapper/src\/main\/java" element1="/src&lt;com.taotao.mapper" element2="/src&lt;com.taotao.pojo" flags="589830" fragments="2" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyPackages" stamp="1516875070975" version="1.0"/>
+</session>

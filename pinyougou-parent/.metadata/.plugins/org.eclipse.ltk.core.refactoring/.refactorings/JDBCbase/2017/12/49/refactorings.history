@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">&#x0A;<refactoring accessors="true" comment="Delete element from 项目“JDBCbase”&#x0D;&#x0A;－ 原始项目：“JDBCbase”&#x0D;&#x0A;－ 原始元素：“JDBCbase/src/cn.itcast.service”" description="删除元素" element1="/src&lt;cn.itcast.service" elements="1" flags="589830" id="org.eclipse.jdt.ui.delete" resources="0" stamp="1512441884583" subPackages="false" version="1.0"/>&#x0A;<refactoring accessors="true" comment="Delete element from 项目“JDBCbase”&#x0D;&#x0A;－ 原始项目：“JDBCbase”&#x0D;&#x0A;－ 原始元素：“JDBCbase/src/cn.itcast.utils”" description="删除元素" element1="/src&lt;cn.itcast.utils" elements="1" flags="589830" id="org.eclipse.jdt.ui.delete" resources="0" stamp="1512441967591" subPackages="false" version="1.0"/>
+</session>

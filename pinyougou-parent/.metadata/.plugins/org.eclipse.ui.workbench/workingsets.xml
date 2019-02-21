@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workingSetManager>
+<workingSet editPageId="org.eclipse.ui.resourceWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1516792470738_2" label="taotao-manager" name="taotao-manager"/>
+<workingSet editPageId="org.eclipse.ui.resourceWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1523277854987_3" label="ScientificResearch_management_system" name="ScientificResearch_management_system"/>
+<workingSet editPageId="org.eclipse.ui.resourceWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1529826896683_4" label="taotao-parent" name="taotao-parent"/>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1507905972344_0" label="Window Working Set" name="Aggregate for window 1507905972343"/>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1511495695946_1" label="窗口工作集" name="Aggregate for window 1511495695945"/>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1529998571582_7" label="Multiple Working Sets" name="Aggregate:123:ScientificResearch_management_system:taotao-manager:taotao-parent:">
+<workingSet IMemento.internal.id="ScientificResearch_management_system"/>
+<workingSet IMemento.internal.id="taotao-manager"/>
+<workingSet IMemento.internal.id="taotao-parent"/>
+</workingSet>
+</workingSetManager>

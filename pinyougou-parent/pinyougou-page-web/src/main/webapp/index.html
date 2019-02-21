@@ -1,0 +1,51 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Strict//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>Insert title here</title>
+<script type="text/javascript" src="plugins/jquery/jquery.min.js"></script>
+</head>
+<body>
+	<button onclick="ajax1()">$.ajax</button>
+	<button onclick="ajax2()">$.getJSON</button>
+	<button onclick="ajax3()">cors注解</button>
+	<button onclick="ajax4()">cors头信息</button>
+</body>
+<script type="text/javascript">
+	function ajax1(){
+		$.ajax({
+			type:"get",
+			url:"http://localhost:8081/callback",
+			data:"ceshi=123",
+			dataType:"jsonp",
+			jsonp:"callback",
+			jsonpCallback:"go_callback",
+			success:function(data){
+				alert("成功");
+				alert(data[0])
+				
+			}
+		})
+	}
+
+	function go_callback(data){
+		alert("来到函数callback");
+		alert(data[0])
+	}
+	function ajax2(){
+		$.getJSON("http://localhost:8081/callback?callback=?",{ceshi:123},function(data){
+			alert(data[0])
+		})
+	}
+	function ajax3(){
+		$.get("http://localhost:8081/callback1",{ceshi:123},function(data){
+			alert(data);
+		})
+	}
+	function ajax4(){
+		$.get("http://localhost:8081/callback2",{ceshi:123},function(data){
+			alert(data);
+		})
+	}
+</script>
+</html>

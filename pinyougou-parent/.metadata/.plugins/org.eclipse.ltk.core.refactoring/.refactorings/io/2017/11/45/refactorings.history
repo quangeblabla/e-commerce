@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="将方法“public static void conbine() throws FileNotFoundException, IOException ”从“io.sequence.SequenceInputStreamDemo.main()”抽取到“io.sequence.SequenceInputStreamDemo”&#x0D;&#x0A;－ 原始项目：“io”&#x0D;&#x0A;－ 方法名称：“conbine”&#x0D;&#x0A;－ 目标类型：“io.sequence.SequenceInputStreamDemo”&#x0D;&#x0A;－ 已声明可视性：“public”&#x0D;&#x0A;－ 声明抛出的运行时异常" comments="false" description="抽取方法“conbine”" destination="0" exceptions="true" flags="786434" id="org.eclipse.jdt.ui.extract.method" input="/src&lt;io.sequence{SequenceInputStreamDemo.java" name="conbine" replace="false" selection="585 1164" stamp="1509866739659" version="1.0" visibility="1"/>
+</session>
